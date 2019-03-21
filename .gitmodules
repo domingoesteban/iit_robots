@@ -1,0 +1,12 @@
+[submodule "iit_robots/centauro"]
+	path = iit_robots/centauro
+	url = https://github.com/ADVRHumanoids/centauro-simulator
+[submodule "iit_robots/coman"]
+	path = iit_robots/coman
+	url = https://github.com/ADVRHumanoids/iit-coman-ros-pkg
+[submodule "iit_robots/cogimon"]
+	path = iit_robots/cogimon
+	url = https://github.com/ADVRHumanoids/iit-cogimon-ros-pkg
+[submodule "iit_robots/walkman"]
+	path = iit_robots/walkman
+	url = https://github.com/ADVRHumanoids/iit-walkman-ros-pkg
